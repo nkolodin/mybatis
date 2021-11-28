@@ -2,5 +2,5 @@ package ru.mybatis.mybatis.config;
 
 
 public class MybatisConfig {
-    String s = "";
+    String s = "1";
 }
